@@ -20,7 +20,6 @@ public class PongView extends View {
     /*
      * Utilities
      */
-    private Context                   mContext;
     private Random                    mRandom;
 
     private AudioPlayer               mPlayer;
